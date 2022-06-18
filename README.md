@@ -17,5 +17,3 @@
 [Jyothi](https://www.jecc.ac.in/)
 
 
-|sl.no|roll.no|name|
-|--|--|
